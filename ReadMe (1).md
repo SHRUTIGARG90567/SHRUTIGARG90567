@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello I'm Shruti:
 🎓 B.Tech in AI & Data Science | 💻 Data Science Enthusiast<br>🔍 Skilled in Python, ML, SQL, NLP & CV<br>🚀 Projects: Fake News Detection | Sign Language Recognition | Movie Recommender<br>📊 Passionate about AI, analytics, and building impactful solutions<br><br>
 
 
